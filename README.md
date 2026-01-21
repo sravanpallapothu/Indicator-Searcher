@@ -94,21 +94,9 @@ Value: 35.158.87.123
 
 CNAME Record  
 Host: www  
-Value: petrina76978.cname.softr.app  
+Value: indicatorsearcher.org 
 
 Once DNS propagates, Softr automatically verifies the domain, issues an SSL certificate, and serves the site securely over HTTPS.
-
----
-
-## Common setup pitfalls and lessons learned
-
-- Search is built into Softr’s List block in newer versions, not a separate block  
-- CSV imports create new tables rather than appending rows  
-- CNAME must always point to `.cname.softr.app`, never to the same domain  
-- DNS propagation takes time; avoid repeated edits  
-- DNS checker tools reflect reality more reliably than UI displays  
-
----
 
 ## What this repository contains
 
@@ -310,7 +298,7 @@ TTL: Automatic
 
 Type: CNAME Record  
 Host: www  
-Value: petrina76978.cname.softr.app  
+Value: indicatorsearcher.org
 TTL: Automatic  
 
 (Namecheap automatically adds a trailing dot — this is normal.)
@@ -335,7 +323,7 @@ Avoid changing records during this time.
 Check:
 
 indicatorsearcher.org → A → 35.158.87.123  
-www.indicatorsearcher.org → CNAME → petrina76978.cname.softr.app  
+www.indicatorsearcher.org → CNAME → indicatorsearcher.org 
 
 ---
 
