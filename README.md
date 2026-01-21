@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/sravanpallapothu/Indicator-Searcher)
+![GitHub contributors](https://img.shields.io/github/contributors/sravanpallapothu/Indicator-Searcher)
+
+
 
 # README.md
 # ============================================================
