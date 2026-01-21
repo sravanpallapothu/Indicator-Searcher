@@ -47,8 +47,8 @@ No backend code or server management is required.
 
 ## Tools used
 
-- Custom GPT — Extracts structured indicator metadata from PDF reports  
-- Spreadsheet (CSV / Google Sheets) — Master indicator catalogue  
+- Custom GPT — Extracts structured indicator metadata from PDF reports (https://chatgpt.com/g/g-6958221066c48191a43bdebdfe4d3204-sravans-indicator-extractor)
+- Spreadsheet (CSV / Google Sheets) — Master indicator catalogue  (see example attahed)
 - Softr — No-code platform for database + search UI  
 - Namecheap — Domain registration and DNS  
 - Softr Hosting + SSL — Automatic HTTPS provisioning  
