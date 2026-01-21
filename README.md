@@ -37,7 +37,7 @@ PDF Reports
 ↓  
 Custom GPT extracts indicator tables (CSV)  
 ↓  
-Master Spreadsheet (Indicator Catalogue)  
+Master Spreadsheet (Indicator Catalogue) [Master Spreadsheet (Indicator Catalogue)](data/indicator_catalogue_example.csv) 
 ↓  
 Softr Database  
 ↓  
